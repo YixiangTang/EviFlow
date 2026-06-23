@@ -1,0 +1,10 @@
+langchain-core>=0.3
+langchain-openai>=0.3
+langchain-google-genai>=2.0
+langgraph>=0.2
+numpy>=1.26
+pandas>=2.2
+pydantic>=2.8
+scikit-learn>=1.5
+tqdm>=4.66
+typing_extensions>=4.12
