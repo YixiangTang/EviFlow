@@ -10,6 +10,12 @@ venv/
 artifacts/
 outputs/
 processed_data/
+!processed_data/
+processed_data/*
+!processed_data/aiops2022/
+processed_data/aiops2022/*
+!processed_data/aiops2022/2022-05-01/
+!processed_data/aiops2022/2022-05-01/**
 
 .DS_Store
 Thumbs.db

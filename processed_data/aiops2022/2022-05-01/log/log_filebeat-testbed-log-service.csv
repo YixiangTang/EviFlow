@@ -1,0 +1,11 @@
+﻿log_id,timestamp,cmdb_id,log_name,value
+k3aBt38B4OJPLTSquRM4,1651334403,cartservice-0,log_cartservice-service_application,[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+eXaBt38B4OJPLTSqtBPB,1651334403,currencyservice-2,log_currencyservice-service_application,"severity: info, message: received conversion request"
+enaBt38B4OJPLTSqtBPB,1651334403,currencyservice-2,log_currencyservice-service_application,"severity: info, message: conversion request successful"
+e3aBt38B4OJPLTSqtBPB,1651334403,currencyservice-2,log_currencyservice-service_application,"severity: info, message: received conversion request"
+kHaBt38B4OJPLTSquRM4,1651334403,cartservice-0,log_cartservice-service_application,[40m[32minfo[39m[22m[49m: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+kXaBt38B4OJPLTSquRM4,1651334403,cartservice-0,log_cartservice-service_application,     Executing endpoint 'gRPC - /hipstershop.CartService/GetCart'
+knaBt38B4OJPLTSquRM4,1651334403,cartservice-0,log_cartservice-service_application,etCartAsync called with userId=4bba50b8-a01a-47d7-8e5c-76620b6fedbd
+lHaBt38B4OJPLTSquRM4,1651334403,cartservice-0,log_cartservice-service_application,     Executed endpoint 'gRPC - /hipstershop.CartService/GetCart'
+fXaBt38B4OJPLTSqtBPB,1651334403,frontend-0,log_frontend-service_application,"severity: debug, message: request started"
+iXaBt38B4OJPLTSquRM4,1651334403,currencyservice-1,log_currencyservice-service_application,"severity: info, message: conversion request successful"

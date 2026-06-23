@@ -1,0 +1,11 @@
+﻿timestamp,level,cmdb_id,failure_type
+1651338400,node,node-6,node鑺傜偣CPU鏁呴殰
+1651339370,node,node-6,node鑺傜偣CPU鏁呴殰
+1651340937,pod,recommendationservice-0,k8s瀹瑰櫒io璐熻浇
+1651342931,node,node-5,node纾佺洏鏁呴殰
+1651347456,pod,frontend-2,k8s瀹瑰櫒鍐呭瓨璐熻浇
+1651353978,node,node-1,node纾佺洏鏁呴殰
+1651358169,service,paymentservice,k8s瀹瑰櫒缃戠粶鏁呴殰
+1651361221,node,node-3,node纾佺洏鏁呴殰
+1651362327,service,currencyservice,k8s瀹瑰櫒缃戠粶鏁呴殰
+1651365415,service,emailservice,k8s瀹瑰櫒缃戠粶鏁呴殰
