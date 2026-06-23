@@ -7,7 +7,7 @@ EviFlow is a multi-stage root cause analysis workflow for microservice systems. 
 - `run.py`: end-to-end inference entrypoint.
 - `src/`: workflow construction, prompt definitions, anomaly extraction, and RCA nodes.
 - `config/`: dataset metadata, keyword lists, component lists, and LLM client configuration.
-- `preprocess/`: dataset preprocessing scripts for AIOPS2022, Nezha, and RCAEval.
+- `preprocess/`: dataset preprocessing scripts for AIOPS2022 and RCAEval.
 - `data/`: placeholder directory for local raw inputs or user-managed auxiliary files.
 - `outputs/`: generated prediction files at runtime. Ignored by git.
 - `artifacts/`: optional workflow graph exports. Ignored by git.
